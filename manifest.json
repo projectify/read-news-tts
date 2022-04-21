@@ -13,7 +13,7 @@
     "default_popup": "popup.html",
     "default_icon": "icon.png"
   },
-  "permissions": ["storage", "tabs", "contextMenus", "scripting","activeTab"],
+  "permissions": ["tabs","activeTab"],
   "host_permissions": ["<all_urls>"],
   "icons": { 
     "128": "icon.png" 
