@@ -7,7 +7,6 @@ Preview on Youtube:
 --
 [![Preview on Youtube](https://i.imgur.com/6hhMzC2.png)](https://www.youtube.com/watch?v=sg8jczAonnM)
 
-
 Websites used on the Plugin:
 --
 https://outlinetts.com
@@ -21,3 +20,7 @@ https://readertts.com
 https://newsvoice.info
 
 https://newsreader.info
+
+Chrome Web Store
+--
+https://chrome.google.com/webstore/detail/read-news-with-tts/iimnpknhbclbehjapplgbaakdjnlifbm
