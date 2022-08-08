@@ -5,7 +5,7 @@ Version: 1.0.0
 --
 Preview on Youtube:
 --
-[![Preview on Youtube](https://i.imgur.com/6hhMzC2.png)](https://www.youtube.com/watch?v=sg8jczAonnM)
+[![Preview on Youtube](https://i.imgur.com/6hhMzC2.png)](https://www.youtube.com/watch?v=FNSxPTN0sLQ)
 
 Websites used on the Plugin:
 --
